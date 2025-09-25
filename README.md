@@ -65,11 +65,7 @@ pip install -r requirements.txt
 
 ### Interactive App
 
-A Gradio app is included:
-
-```bash
-python app/segmentation_app_gradio.py
-```
+A Gradio app is included
 
 * Enter **Annual Income (k$)** and **Spending Score (1–100)** in the input fields
 * The app will output the predicted cluster and a descriptive label for that cluster
@@ -133,8 +129,4 @@ Feel free to submit issues or pull requests. Some ideas for improvements:
 MIT License
 © 2025 Tanzeel
 
-```
 
-
-If you like, I can generate this as a complete markdown file and even suggest badges (build, license) to add to the top.
-```
